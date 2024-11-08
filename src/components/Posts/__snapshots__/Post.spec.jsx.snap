@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Post /> should match snapshot 1`] = `
+exports[`<Posts /> should match snapshot 1`] = `
 <div
   class="posts"
 >
